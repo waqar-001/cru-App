@@ -3,7 +3,7 @@
 client_id = "126c58a33787e04dcbbdb60f2b2ac4d1"
 name = "cru"
 handle = "cru"
-application_url = "https://massachusetts-bound-ensure-tuner.trycloudflare.com"
+application_url = "https://mba-kinda-mainstream-rally.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://massachusetts-bound-ensure-tuner.trycloudflare.com/auth/callback",
-  "https://massachusetts-bound-ensure-tuner.trycloudflare.com/auth/shopify/callback",
-  "https://massachusetts-bound-ensure-tuner.trycloudflare.com/api/auth/callback"
+  "https://mba-kinda-mainstream-rally.trycloudflare.com/auth/callback",
+  "https://mba-kinda-mainstream-rally.trycloudflare.com/auth/shopify/callback",
+  "https://mba-kinda-mainstream-rally.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]

@@ -14,7 +14,7 @@ export const loader = async ({ request }) => {
     const response = await admin.graphql(
         `#graphql
         query {
-            products(first: 5) {
+            products(first: 10) {
                 edges {
                     node {
                         id
